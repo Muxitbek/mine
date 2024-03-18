@@ -1,0 +1,22 @@
+.conto{
+    display: flex;
+    flex-direction: column;
+}
+
+.lock{
+    width: 500px;
+}
+
+menu{
+    display: flex;
+    gap: 30px;
+    background-color: black;
+    color: white;
+    padding: 5px 0px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+

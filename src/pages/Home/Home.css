@@ -1,0 +1,13 @@
+.LogBox{
+    background-color: darkcyan;
+    display: flex;
+}
+
+.infos{
+    background-color: green;
+    display: flex;
+}
+
+h3{
+    width: 200px;
+}
